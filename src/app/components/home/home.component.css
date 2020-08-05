@@ -1,0 +1,31 @@
+h2{
+    text-align: center;
+}
+.divclas{
+    border: 1px solid red;
+    width: 400px;
+    margin: 0 auto;
+    padding:10px;
+}
+.divresultclas{
+    border: 1px solid red;
+    width: 400px;
+    margin: 0 auto;
+    padding:10px;
+    margin-top: 50px;
+}
+.divclas li{
+    height: 50px;
+    line-height: 50px;
+}
+.nameclas{
+    width:300px;
+    height: 30px;
+}
+.butclas{
+    margin-right: 30%;
+    margin-top: 20px;
+    width: 100px;
+    height: 30px;
+    float: right;
+}
